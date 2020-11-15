@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/77b46250-9d60-40fe-8499-51cc5ee13ace/resourceGroups/TimeTrackerResourceGroup/providers/Microsoft.Web/sites/jef-timetracker",
+    "appService.deploySubpath": "."
+}

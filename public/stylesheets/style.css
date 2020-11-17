@@ -7,6 +7,9 @@ a {
   color: #00B7FF;
 }
 
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
 /* Container for skill bars */
 .container {
   width: 100%; /* Full width */
